@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "name": "5letters",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "find_word.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node find_word.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
