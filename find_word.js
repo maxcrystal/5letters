@@ -20,6 +20,7 @@ async function main() {
       type: "input",
       name: "wordRegEx",
       message: "Регулярное выражение:",
+      default: ".*",
     },
   ]);
 
